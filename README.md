@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates how to customize the edit dialog of the Syncfusion Blazor DataGrid by using dialog templates and embedding multiple editor components within the editing form. The implementation uses custom editors such as TextBox, NumericTextBox, AutoComplete, DatePicker, and DropDownList inside the dialog template to provide a tailored data-entry experience. The grid displays order data through an `OrderDetails` model and supports dialog-based record editing. An action handler is also used to detect add operations and dynamically adjust dialog behavior when creating new records.
+This sample demonstrates how to customize the edit dialog of the Syncfusion [Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) by using dialog templates and embedding multiple editor components within the editing form. The implementation uses custom editors such as TextBox, NumericTextBox, AutoComplete, DatePicker, and DropDownList inside the dialog template to provide a tailored data-entry experience. The grid displays order data through an `OrderDetails` model and supports dialog-based record editing. An action handler is also used to detect add operations and dynamically adjust dialog behavior when creating new records.
 
 ## Key Features
 
